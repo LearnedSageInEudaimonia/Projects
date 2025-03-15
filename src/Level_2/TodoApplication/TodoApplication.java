@@ -1,4 +1,4 @@
-package Day02.TodoApplication;
+package Level_2.TodoApplication;
 
 import java.util.ArrayList;
 

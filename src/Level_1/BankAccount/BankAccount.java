@@ -1,4 +1,4 @@
-package Day01.BankAccount;
+package Level_1.BankAccount;
 
 public class BankAccount {
     private String accountNumber;

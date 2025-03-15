@@ -1,4 +1,4 @@
-package Day02.LibraryManagementSystem;
+package Level_2.LibraryManagementSystem;
 
 import java.util.Scanner;
 

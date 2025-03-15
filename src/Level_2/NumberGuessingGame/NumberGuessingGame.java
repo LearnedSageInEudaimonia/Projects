@@ -1,4 +1,4 @@
-package Day02.NumberGuessingGame;
+package Level_2.NumberGuessingGame;
 
 import java.util.Random;
 import java.util.Scanner;
