@@ -15,7 +15,7 @@ public class Main {
         final EnrollmentDAO enrollmentDAO = new EnrollmentDAO();
 
 
-        System.out.println("\n=== STUDENT MANAGEMENT SYSTEM ===");
+        System.out.println("\n=== STUDENT MANAGEMENT SYSTEM =a==");
 
         while (true) {
             System.out.println("\n1. Manage Students \n2. Manage Courses \n3. Enroll & Calculate GPA \n4. Exit");
