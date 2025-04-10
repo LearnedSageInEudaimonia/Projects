@@ -3,7 +3,7 @@
 This repository is a curated collection of Java projects runnable via the command line (CLI). Projects are structured by levels of difficulty. Some use JDBC (MySQL) for database interaction.
 
 ---
-## 🛠️ Technologies / Tools Used
+##  Technologies / Tools Used
 
 - **Java 8+**
 - **MySQL** (Only for JDBC projects in Level 4)
@@ -14,7 +14,7 @@ This repository is a curated collection of Java projects runnable via the comman
 
 ---
 
-## 📁 Project Structure with Descriptions
+##  Project Structure with Descriptions
 
 ```plaintext
 src/
