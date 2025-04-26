@@ -9,7 +9,7 @@ This repository is a curated collection of Java projects runnable via the comman
 - **MySQL** (Only for JDBC projects in Level 4)
 - **JDBC (Java Database Connectivity)**
 - **MySQL Connector/J** (JDBC Driver)
-- **IDE (ex: IntelliJ IDEA, Eclipse)** or terminal for compilation
+- **IDE** ( IntelliJ IDEA)
 - **Basic Java Concepts:** OOP, Collections, Exception Handling, File I/O
 
 ---
